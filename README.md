@@ -47,14 +47,4 @@ I focus on crafting modern, high-performance interfaces using **React, Next.js, 
 
 </div>
 
----
-
-### ⚙️ Featured Experience
-
-- **Full Stack in Production:** End-to-end web application development using Next.js (SSR, reusable design systems) and Spring Boot (RESTful APIs, complex business logic).
-- **Security & Access Control:** Implementation of centralized authentication and role-based access control (RBAC) with **Keycloak**, along with security testing and vulnerability assessment experience.
-- **CI/CD & DevOps:** Building and supporting automated deployment pipelines using Docker, GitLab CI, and Portainer.
-
----
-
 
