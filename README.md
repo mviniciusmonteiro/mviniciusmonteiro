@@ -1,42 +1,38 @@
 # Marcus Vinícius Monteiro 👋
-### Full Stack Developer | Bacharel em Ciência da Computação (UFC)
+### Full Stack Developer | B.S. in Computer Science (UFC)
 
-Desenvolvedor Full Stack com experiência prática no desenvolvimento e manutenção de sistemas em produção.  
-Atuo na construção de interfaces modernas e performáticas com **React, Next.js e TypeScript**, e no desenvolvimento de APIs RESTful escaláveis e seguras com **Java e Spring Boot**.
+Full Stack Developer with hands-on experience building and maintaining web applications in production environments.  
+I focus on crafting modern, high-performance interfaces using **React, Next.js, and TypeScript**, as well as architecting scalable, secure RESTful APIs with **Java and Spring Boot**.
 
 ---
 
-### 💻 Stack & Tecnologias
+### 💻 Tech Stack & Tools
 
 #### **Front-end**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css" alt="Front-end Stack" />
 </p>
 
-#### **Back-end & Arquitetura**
+#### **Back-end & Architecture**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres" alt="Back-end Stack" />
 </p>
 
-#### **DevOps, Segurança & Ferramentas**
+#### **DevOps, Security & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,postman,linux,jest" alt="DevOps e Testes" />
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,postman,linux,jest" alt="DevOps and Testing" />
 </p>
 
-> **Outras competências:** Keycloak (OAuth2/OpenID Connect), JUnit, Playwright, Portainer, Nexus, CI/CD Pipelines e Otimizações SSR.
+> **Additional skills:** Keycloak (OAuth2/OpenID Connect), JUnit, Playwright, Portainer, Nexus, CI/CD Pipelines, and SSR Optimizations.
 
 ---
 
-### ⚙️ Experiência Prática em Destaque
+### ⚙️ Featured Experience
 
-- **Full Stack em Produção:** Desenvolvimento de ponta a ponta com Next.js (SSR, componentes reutilizáveis) e Spring Boot (APIs RESTful, regras de negócio complexas).
-- **Segurança & Acesso:** Implementação de autenticação centralizada e controle de acesso via **Keycloak**, além de vivência em análise de vulnerabilidades em testes de segurança.
-- **CI/CD & DevOps:** Configuração e suporte a pipelines de automação de deploys utilizando Docker, GitLab CI e Portainer.
+- **Full Stack in Production:** End-to-end web application development using Next.js (SSR, reusable design systems) and Spring Boot (RESTful APIs, complex business logic).
+- **Security & Access Control:** Implementation of centralized authentication and role-based access control (RBAC) with **Keycloak**, along with security testing and vulnerability assessment experience.
+- **CI/CD & DevOps:** Building and supporting automated deployment pipelines using Docker, GitLab CI, and Portainer.
 
 ---
 
-### Atividade no GitHub
 
-### 📊 Atividade no GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mviniciusmonteiro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
