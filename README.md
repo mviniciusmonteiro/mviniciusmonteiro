@@ -15,7 +15,7 @@ I focus on crafting modern, high-performance interfaces using **React, Next.js, 
 
 #### **Back-end & Architecture**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres" alt="Back-end Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,postgres" alt="Back-end Stack" />
 </p>
 
 #### **DevOps, Security & Tools**
